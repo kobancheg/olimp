@@ -408,21 +408,6 @@ template {
 .glyphicon-refresh:before {
   content: "\e031";
 }
-.glyphicon-remove:before {
-  content: "\e014";
-}
-.glyphicon-print:before {
-  content: "\e045";
-}
-.glyphicon-hand-up:before {
-  content: "\e129";
-}
-.glyphicon-thumbs-up:before {
-  content: "\e125";
-}
-.glyphicon-menu-up:before {
-  content: "\e260";
-}
 html {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
