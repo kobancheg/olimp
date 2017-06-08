@@ -217,6 +217,7 @@ nav.level-one
         top: -1px;
         border-radius: 0;
         border: 1px solid #eceeef;
+        background-color: #f9f9f9;
     }
 }
 .navbar-toggler
@@ -548,17 +549,32 @@ html [type='button'],
 .level-two .dropdown-item {
     border-bottom: 1px solid #eaebec;
 }
+
+/*-----update 08.06 -------*/
+
+.level-one .dropdown:hover:before {
+    content: "";
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 3px;
+    height: 100%;
+    background: #cf514e;
+    display: block;
+}
 .level-one .dropdown a
 {
     font-size: .8rem;
     white-space: normal;
     padding: 10px 1.5rem;
 }
+
+/*-----update 08.06 -------*/
+
 @media (min-width: 768px)
 {
     .level-one .dropdown a:hover {
         background: #fff;
-        border-left: 3px solid #cf7c4e;
     }
 }
 .level-one .level-two a
