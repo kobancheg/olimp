@@ -358,12 +358,17 @@ nav.level-one
     border-radius: 0;
     background-color: transparent;
 }
+
+/*----- update 09.06 -----*/
+
 .dropdown-menu.nav-child
 {
     margin-top: 0;
     margin-bottom: 0;
     font-size: 0.8rem;
     border-radius: 0;
+    padding: 0;
+    background-color: #f9f9f9;
 }
 @media (max-width: 767px)
 {
@@ -545,9 +550,11 @@ html [type='button'],
 
     border: 1px solid rgba(0, 0, 0, .125);
 }
+
+/*----- update 09.06 -----*/
 .level-one .dropdown,
 .level-two .dropdown-item {
-    border-bottom: 1px solid #eaebec;
+    /*border-bottom: 1px solid #eaebec;*/
 }
 
 /*-----update 08.06 -------*/
@@ -569,11 +576,12 @@ html [type='button'],
     padding: 10px 1.5rem;
 }
 
-/*-----update 08.06 -------*/
+/*-----update 09.06 -------*/
 
 @media (min-width: 768px)
 {
-    .level-one .dropdown a:hover {
+    .level-one .dropdown a:hover,
+    .dropdown-menu.nav-child a:hover {
         background: #fff;
     }
 }
@@ -726,9 +734,14 @@ i.glyphicon.glyphicon-menu-hamburger.hidden-sm-down {
     text-transform: uppercase;
     color: #fff!important;
 }
+
+/*----- update 09.06 -----*/
+
 .dropdown-menu.nav-child a,
 .dropdown-menu.level-one a {
     color: #292b2c!important;
+    padding: 10px 1.5rem;
+    border-bottom: 1px solid #eaebec;
 }
 .primary-nav .level-one a,
 .primary-nav .level-two a,
