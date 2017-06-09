@@ -562,8 +562,8 @@ html [type='button'],
 .level-one .dropdown:hover:before {
     content: "";
     position: absolute;
-    left: 0px;
-    top: 0px;
+    left: 0;
+    top: 0;
     width: 3px;
     height: 100%;
     background: #cf514e;
