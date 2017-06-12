@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1814e80c-4508-4b31-bb58-b863a7daf91f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog_detail.html" afterPath="$PROJECT_DIR$/catalog_detail.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="490">
+              <caret line="847" column="0" lean-forward="false" selection-start-line="847" selection-start-column="0" selection-end-line="856" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="637">
+              <caret line="1012" column="1" lean-forward="false" selection-start-line="1012" selection-start-column="1" selection-end-line="1012" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="catalog_detail.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/catalog_detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="637">
+              <caret line="887" column="41" lean-forward="true" selection-start-line="887" selection-start-column="41" selection-end-line="887" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;div class=&quot;dropdown-menu nav-child&quot;&gt;&lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;  &lt;div class=&quot;dropdown-divider&quot;&gt;&lt;/div&gt;            &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Another action&lt;/a&gt;            &lt;div class=&quot;dropdown-divider&quot;&gt;&lt;/div&gt;            &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Something else here&lt;/a&gt;          &lt;/div&gt;</find>
+      <find>&lt;div class=&quot;dropdown-menu nav-child&quot;&gt;&lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt; &lt;div class=&quot;dropdown-divider&quot;&gt;&lt;/div&gt;            &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Another action&lt;/a&gt;            &lt;div class=&quot;dropdown-divider&quot;&gt;&lt;/div&gt;            &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Something else here&lt;/a&gt;          &lt;/div&gt;</find>
+      <find>&lt;div class=&quot;dropdown-menu nav-child&quot;&gt;&lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;&lt;div class=&quot;dropdown-divider&quot;&gt;&lt;/div&gt;            &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Another action&lt;/a&gt;            &lt;div class=&quot;dropdown-divider&quot;&gt;&lt;/div&gt;            &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Something else here&lt;/a&gt;          &lt;/div&gt;</find>
+      <find>\&lt;\!\-\-\-\-\-update 09\.06 \-\-\-\-\-\-\-\&gt;\n          \&lt;div class\=\&quot;dropdown\-menu nav\-child\&quot;\&gt;\n            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\#\&quot;\&gt;Action\&lt;\/a\&gt;\n            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\#\&quot;\&gt;Another action\&lt;\/a\&gt;\n            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\#\&quot;\&gt;Something else here\&lt;\/a\&gt;\n          \&lt;\/div\&gt;\n          \&lt;\!\-\-\-\-\-end update 09\.06 \-\-\-\-\-\-\-\&gt;</find>
+      <find>\&lt;div class\=\&quot;dropdown\-menu nav\-child\&quot;\&gt;\n            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\#\&quot;\&gt;Action\&lt;\/a\&gt;\n            \&lt;div class\=\&quot;dropdown\-divider\&quot;\&gt;\&lt;\/div\&gt;\n            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\#\&quot;\&gt;Another action\&lt;\/a\&gt;\n            \&lt;div class\=\&quot;dropdown\-divider\&quot;\&gt;\&lt;\/div\&gt;\n            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\#\&quot;\&gt;Something else here\&lt;\/a\&gt;\n          \&lt;\/div\&gt;</find>
+      <find>\&lt;nav class\=\&quot;nav flex\-column list\-group sidebar\-nav mb\-4\&quot;\&gt;\n        \&lt;a class\=\&quot;nav\-link list\-group\-item\&quot; href\=\&quot;\#\&quot;\&gt;Статьи\&lt;\/a\&gt;\n        \&lt;a class\=\&quot;nav\-link list\-group\-item\&quot; href\=\&quot;\#\&quot;\&gt;Вопрос\-ответ\&lt;\/a\&gt;\n        \&lt;a class\=\&quot;nav\-link list\-group\-item\&quot; href\=\&quot;\#\&quot;\&gt;Производители\&lt;\/a\&gt;\n      \&lt;\/nav\&gt;</find>
+      <find>&lt;nav class=&quot;nav flex-column list-group sidebar-nav mb-4&quot;&gt;        &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Статьи&lt;/a&gt;        &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Вопрос-ответ&lt;/a&gt;        &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Производители&lt;/a&gt;      &lt;/nav&gt;</find>
+      <find>&lt;nav class=&quot;nav flex-column list-group sidebar-na mb-4&quot;&gt;        &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Статьи&lt;/a&gt;        &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Вопрос-ответ&lt;/a&gt;        &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Производители&lt;/a&gt;      &lt;/nav&gt;</find>
+      <find>&lt;nav class=&quot;nav flex-column list-group sidebar-n mb-4&quot;&gt;        &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Статьи&lt;/a&gt;        &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Вопрос-ответ&lt;/a&gt;        &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Производители&lt;/a&gt;      &lt;/nav&gt;</find>
+      <find>&lt;nav class=&quot;nav flex-column list-group sidebar- mb-4&quot;&gt;        &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Статьи&lt;/a&gt;        &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Вопрос-ответ&lt;/a&gt;        &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Производители&lt;/a&gt;      &lt;/nav&gt;</find>
+      <find>&lt;nav class=&quot;nav flex-column list-group sidebar mb-4&quot;&gt;        &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Статьи&lt;/a&gt;        &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Вопрос-ответ&lt;/a&gt;        &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Производители&lt;/a&gt;      &lt;/nav&gt;</find>
+      <find>&lt;nav class=&quot;nav flex-column list-group si mb-4&quot;&gt;        &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Статьи&lt;/a&gt;        &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Вопрос-ответ&lt;/a&gt;        &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Производители&lt;/a&gt;      &lt;/nav&gt;</find>
+      <find>&lt;nav class=&quot;nav flex-column list-group s mb-4&quot;&gt;        &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Статьи&lt;/a&gt;        &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Вопрос-ответ&lt;/a&gt;        &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Производители&lt;/a&gt;      &lt;/nav&gt;</find>
+      <find>&lt;nav class=&quot;nav flex-column list-group mb-4&quot;&gt;        &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Статьи&lt;/a&gt;        &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Вопрос-ответ&lt;/a&gt;        &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Производители&lt;/a&gt;      &lt;/nav&gt;</find>
+      <find>&lt;nav class=&quot;nav flex-column list-group  mb-4&quot;&gt;        &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Статьи&lt;/a&gt;        &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Вопрос-ответ&lt;/a&gt;        &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Производители&lt;/a&gt;      &lt;/nav&gt;</find>
+      <find>update</find>
+      <find>cart</find>
+      <find>\&lt;button type\=\&quot;button\&quot; class\=\&quot;btn btn\-sm btn\-warning\&quot; data\-toggle\=\&quot;modal\&quot;\n                                        data\-target\=\&quot;\#cart\&quot;\&gt;В корзину\n                                \&lt;\/button\&gt;</find>
+      <find>&lt;button type=&quot;button&quot; class=&quot;btn btn-sm btn-warning&quot;&gt;В корзину&lt;/button&gt;</find>
+      <find>&lt;button type=&quot;button&quot; class=&quot;btn btn-sm btn-warning mt-3&quot;&gt;В корзину&lt;/button&gt;</find>
+      <find>&gt;В корзину&lt;/button&gt;</find>
+      <find>&gt;В корзину&lt;/button</find>
+      <find>&gt;В корзину&lt;/butto</find>
+      <find>&gt;В корзину&lt;/butt</find>
+      <find>&gt;В корзину&lt;/but</find>
+      <find>&gt;В корзину&lt;/bu</find>
+      <find>&gt;В корзину&lt;/b</find>
+      <find>&gt;В корзину&lt;/</find>
+      <find>&gt;В корзину&lt;</find>
+      <find>&gt;В корзину</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&lt;!-----update 09.06 -------&gt;          &lt;div class=&quot;dropdown-menu nav-child&quot;&gt;            &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;            &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Another action&lt;/a&gt;            &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Something else here&lt;/a&gt;          &lt;/div&gt;          &lt;!-----end update 09.06 -------&gt;</replace>
+      <replace>&lt;!-----update 09.06 -------&gt;&lt;div class=&quot;dropdown-menu nav-child&quot;&gt;&lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;&lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Another action&lt;/a&gt;            &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Something else here&lt;/a&gt;          &lt;/div&gt;          &lt;!-----end update 09.06 -------&gt;</replace>
+      <replace />
+      <replace>&lt;button type=&quot;button&quot; class=&quot;btn btn-sm btn-warning&quot; data-toggle=&quot;modal&quot;                                        data-target=&quot;#cart&quot;&gt;В корзину                                &lt;/button&gt;</replace>
+      <replace>&lt;button type=&quot;button&quot; class=&quot;btn btn-sm btn-warning mt-3&quot; data-toggle=&quot;modal&quot;                                        data-target=&quot;#cart&quot;&gt;В корзину                                &lt;/button&gt;</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="kobancheg &lt;aleks.revati@yandex.ru&gt;" />
+      </list>
+    </option>
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/category-table.html" />
+        <option value="$PROJECT_DIR$/category.html" />
+        <option value="$PROJECT_DIR$/category-list.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/actoins.html" />
+        <option value="$PROJECT_DIR$/caret.html" />
+        <option value="$PROJECT_DIR$/company.html" />
+        <option value="$PROJECT_DIR$/contacts.html" />
+        <option value="$PROJECT_DIR$/enter.html" />
+        <option value="$PROJECT_DIR$/gde_cupit.html" />
+        <option value="$PROJECT_DIR$/katalog.html" />
+        <option value="$PROJECT_DIR$/order.html" />
+        <option value="$PROJECT_DIR$/proizvod.html" />
+        <option value="$PROJECT_DIR$/registration.html" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/vopros-otvet.html" />
+        <option value="$PROJECT_DIR$/catalog_detail1.html" />
+        <option value="$PROJECT_DIR$/catalog_detail2.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" />
+        <option value="$PROJECT_DIR$/js/jquery-3.1.1.slim.min.js" />
+        <option value="$PROJECT_DIR$/js/tether.min.js" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/catalog_detail.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="olimp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="olimp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="olimp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="olimp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap.js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="olimp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="olimp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fancybox" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="olimp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="olimp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="last_opened_file_path" value="D:/Загрузки/jquery.fancybox-1.3.4/jquery.fancybox-1.3.4/fancybox" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="JavaScript" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.jquery-3.1.1.slim.min.js">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="jquery-3.1.1.slim.min.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" working-dir="$PROJECT_DIR$/js">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.jquery-3.1.1.slim.min.js" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructuralSearchPlugin">
+    <searchConfiguration name="user defined" created="1497021140310" text="&lt;nav class=&quot;nav flex-column list-group mb-4&quot;&gt;&#10;    &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Статьи&lt;/a&gt;&#10;    &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Вопрос-ответ&lt;/a&gt;&#10;    &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Производители&lt;/a&gt;&#10;&lt;/nav&gt;" recursive="true" caseInsensitive="true" type="HTML" history="1" />
+    <searchConfiguration name="user defined" created="1497021088531" text="&lt;nav class=&quot;nav flex-column list-group sidebar-nav mb-4&quot;&gt;&#10;    &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Статьи&lt;/a&gt;&#10;    &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Вопрос-ответ&lt;/a&gt;&#10;    &lt;a class=&quot;nav-link list-group-item&quot; href=&quot;#&quot;&gt;Производители&lt;/a&gt;&#10;&lt;/nav&gt;" recursive="true" caseInsensitive="true" type="HTML" history="1" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1814e80c-4508-4b31-bb58-b863a7daf91f" name="Default" comment="" />
+      <created>1496593213337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496593213337</updated>
+      <workItem from="1496593216337" duration="3075000" />
+      <workItem from="1496644761102" duration="177000" />
+      <workItem from="1496648299354" duration="2948000" />
+      <workItem from="1496668749347" duration="437000" />
+      <workItem from="1496669378626" duration="137000" />
+      <workItem from="1496923863189" duration="7495000" />
+      <workItem from="1496994620752" duration="11478000" />
+      <workItem from="1497018269288" duration="4253000" />
+      <workItem from="1497111899427" duration="6237000" />
+      <workItem from="1497130505524" duration="34000" />
+      <workItem from="1497186681837" duration="49000" />
+      <workItem from="1497199037359" duration="7630000" />
+      <workItem from="1497249102051" duration="8910000" />
+    </task>
+    <task id="LOCAL-00001" summary="IDE Fixation">
+      <created>1496593705966</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1496593705966</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test commit">
+      <created>1496593929841</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1496593929841</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test commit2">
+      <created>1496594230103</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1496594230103</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test commit3">
+      <created>1496594509840</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1496594509840</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test commit4">
+      <created>1496595114980</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1496595114980</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update 05.06 fix main.css">
+      <created>1496650792946</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1496650792946</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update 05.06 fix file removed">
+      <created>1496669492852</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1496669492852</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update 08.06 fix dropdown-menu position">
+      <created>1496926521066</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1496926521066</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update 08.06 fix sidebar-menu position:hover">
+      <created>1496931965209</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1496931965209</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update 08.06 fix top-menu child a:hover">
+      <created>1496998536640</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1496998536640</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update 08.06 fix2 top-menu child a:hover">
+      <created>1496998666980</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1496998666980</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update 09.06 tag &quot;a&quot; fix 1">
+      <created>1497001580378</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1497001580378</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update 09.06 tag &quot;a&quot; for catalog item fix final">
+      <created>1497005293595</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1497005293595</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update 09.06 tag &quot;a&quot; for catalog item fix bag final">
+      <created>1497005459697</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1497005459697</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update 09.06 fix glyphicons 24px ?">
+      <created>1497010105722</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1497010105722</updated>
+    </task>
+    <task id="LOCAL-00016" summary="update 09.06 fix sidebar-nav and dropdown top-menu">
+      <created>1497022385254</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1497022385254</updated>
+    </task>
+    <task id="LOCAL-00017" summary="formatting main.css">
+      <created>1497113340395</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1497113340396</updated>
+    </task>
+    <task id="LOCAL-00018" summary="cart modal beta">
+      <created>1497122555795</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1497122555795</updated>
+    </task>
+    <task id="LOCAL-00019" summary="cart modal final and formatting all html files">
+      <created>1497126656240</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1497126656240</updated>
+    </task>
+    <task id="LOCAL-00020" summary="item slider beta">
+      <created>1497204357737</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1497204357737</updated>
+    </task>
+    <task id="LOCAL-00021" summary="item slider final">
+      <created>1497215258902</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1497215258902</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52860000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16822916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50384194" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <MESSAGE value="IDE Fixation" />
+    <MESSAGE value="test commit" />
+    <MESSAGE value="test commit2" />
+    <MESSAGE value="test commit3" />
+    <MESSAGE value="test commit4" />
+    <MESSAGE value="update 05.06 fix main.css" />
+    <MESSAGE value="update 05.06 fix file removed" />
+    <MESSAGE value="update 08.06 fix dropdown-menu position" />
+    <MESSAGE value="update 08.06 fix sidebar-menu position:hover" />
+    <MESSAGE value="update 08.06 fix top-menu child a:hover" />
+    <MESSAGE value="update 08.06 fix2 top-menu child a:hover" />
+    <MESSAGE value="update 09.06 tag &quot;a&quot; fix 1" />
+    <MESSAGE value="update 09.06 tag &quot;a&quot; for catalog item fix final" />
+    <MESSAGE value="update 09.06 tag &quot;a&quot; for catalog item fix bag final" />
+    <MESSAGE value="update 09.06 fix glyphicons 24px ?" />
+    <MESSAGE value="update 09.06 fix sidebar-nav and dropdown top-menu" />
+    <MESSAGE value="formatting main.css" />
+    <MESSAGE value="cart modal beta" />
+    <MESSAGE value="cart modal final and formatting all html files" />
+    <MESSAGE value="item slider beta" />
+    <MESSAGE value="item slider final" />
+    <option name="LAST_COMMIT_MESSAGE" value="item slider final" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6153">
+          <caret line="293" column="42" lean-forward="true" selection-start-line="287" selection-start-column="10" selection-end-line="293" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3423">
+          <caret line="163" column="30" lean-forward="false" selection-start-line="163" selection-start-column="30" selection-end-line="163" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19341">
+          <caret line="921" column="1" lean-forward="true" selection-start-line="921" selection-start-column="1" selection-end-line="921" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7480">
+          <caret line="440" column="22" lean-forward="true" selection-start-line="440" selection-start-column="22" selection-end-line="440" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18690">
+          <caret line="890" column="1" lean-forward="false" selection-start-line="890" selection-start-column="1" selection-end-line="890" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8988">
+          <caret line="428" column="113" lean-forward="false" selection-start-line="428" selection-start-column="57" selection-end-line="428" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_detail1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9303">
+          <caret line="443" column="45" lean-forward="false" selection-start-line="443" selection-start-column="45" selection-end-line="443" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_detail2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9282">
+          <caret line="442" column="38" lean-forward="false" selection-start-line="442" selection-start-column="38" selection-end-line="442" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8988">
+          <caret line="428" column="113" lean-forward="false" selection-start-line="428" selection-start-column="57" selection-end-line="428" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_detail1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9303">
+          <caret line="443" column="45" lean-forward="false" selection-start-line="443" selection-start-column="45" selection-end-line="443" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_detail2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9303">
+          <caret line="443" column="38" lean-forward="true" selection-start-line="443" selection-start-column="38" selection-end-line="443" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html" />
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_detail1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_detail2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html" />
+    <entry file="file://$PROJECT_DIR$/img/actions.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../profsport.local/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="335" column="0" lean-forward="false" selection-start-line="335" selection-start-column="0" selection-end-line="337" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/sectional.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="95" column="16" lean-forward="false" selection-start-line="95" selection-start-column="16" selection-end-line="95" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actoins.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="289" column="39" lean-forward="false" selection-start-line="289" selection-start-column="39" selection-end-line="289" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/category.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="1149" column="30" lean-forward="false" selection-start-line="1149" selection-start-column="30" selection-end-line="1149" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/category-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="996" column="22" lean-forward="false" selection-start-line="996" selection-start-column="22" selection-end-line="996" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/category-table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="1335" column="33" lean-forward="false" selection-start-line="1335" selection-start-column="33" selection-end-line="1335" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/company.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="310" column="17" lean-forward="false" selection-start-line="310" selection-start-column="17" selection-end-line="310" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="303" column="21" lean-forward="false" selection-start-line="303" selection-start-column="21" selection-end-line="303" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="57" lean-forward="false" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gde_cupit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="328" column="62" lean-forward="false" selection-start-line="328" selection-start-column="62" selection-end-line="328" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/katalog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="305" column="69" lean-forward="false" selection-start-line="305" selection-start-column="69" selection-end-line="305" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="320" column="47" lean-forward="false" selection-start-line="320" selection-start-column="47" selection-end-line="320" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proizvod.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="333" column="52" lean-forward="false" selection-start-line="333" selection-start-column="52" selection-end-line="333" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="57" lean-forward="false" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html" />
+    <entry file="file://$PROJECT_DIR$/vopros-otvet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="331" column="22" lean-forward="false" selection-start-line="331" selection-start-column="22" selection-end-line="331" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/caret.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="306" column="37" lean-forward="false" selection-start-line="306" selection-start-column="37" selection-end-line="306" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_detail1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9408">
+          <caret line="448" column="45" lean-forward="false" selection-start-line="448" selection-start-column="45" selection-end-line="448" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_detail2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9408">
+          <caret line="448" column="45" lean-forward="false" selection-start-line="448" selection-start-column="45" selection-end-line="448" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="228" column="16" lean-forward="false" selection-start-line="228" selection-start-column="16" selection-end-line="228" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/tovar1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="4955" lean-forward="false" selection-start-line="3" selection-start-column="4955" selection-end-line="3" selection-end-column="4955" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="4818" lean-forward="false" selection-start-line="3" selection-start-column="4818" selection-end-line="3" selection-end-column="4818" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/tether.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24989" lean-forward="false" selection-start-line="0" selection-start-column="24989" selection-end-line="0" selection-end-column="24989" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery-3.1.1.slim.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="4955" lean-forward="false" selection-start-line="3" selection-start-column="4955" selection-end-line="3" selection-end-column="4955" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="847" column="0" lean-forward="false" selection-start-line="847" selection-start-column="0" selection-end-line="856" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="1012" column="1" lean-forward="false" selection-start-line="1012" selection-start-column="1" selection-end-line="1012" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="887" column="41" lean-forward="true" selection-start-line="887" selection-start-column="41" selection-end-line="887" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
