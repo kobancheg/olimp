@@ -929,6 +929,7 @@
                     </nav>
                 </div>
             </div>
+            <!--update 14.06 -->
             <div class="card category-list-item border-bottom-0">
                 <div class="row">
                     <a href="#"><h6 class="col-11 card-title hidden-sm-up m-3">009 — Замок с ответной частью для
@@ -975,8 +976,12 @@
                     <div class="col-md-3 col-sm-4 col-6 card-block pb-1">
                         <p><strong><span>2 377.20</span><span> руб.</span><span>/шт</span></strong></p>
                         <p class="card-text">Отделка</p>
-                        <label class="btn btn-secondary btn-sm mx-1">SSS</label>
-                        <label class="btn btn-secondary btn-sm mx-1">PSS</label>
+                        <label class="btn btn-secondary btn-sm mx-1 prop pss"
+                               data-toggle="popover" data-placement="bottom"
+                               data-trigger="hover" data-content="Отделка: Шлифованная сталь"></label>
+                        <label class="btn btn-secondary btn-sm mx-1 prop sc"
+                               data-toggle="popover" data-placement="bottom"
+                               data-trigger="hover" data-content="Отделка: Шлифованная сталь"></label>
                         <div class="buy-block">
                             <div class="btn-group mt-3" role="group" aria-label="Basic example">
                                 <button type="button" class="btn btn-sm btn-secondary">-</button>
@@ -1036,8 +1041,12 @@
                     <div class="col-md-3 col-sm-4 col-6 card-block pb-1">
                         <p><strong><span>2 377.20</span><span> руб.</span><span>/шт</span></strong></p>
                         <p class="card-text">Отделка</p>
-                        <label class="btn btn-secondary btn-sm mx-1">SSS</label>
-                        <label class="btn btn-secondary btn-sm mx-1">PSS</label>
+                        <label class="btn btn-secondary btn-sm mx-1 prop pc"
+                               data-toggle="popover" data-placement="bottom"
+                               data-trigger="hover" data-content="Отделка: Шлифованная сталь"></label>
+                        <label class="btn btn-secondary btn-sm mx-1 prop sss"
+                               data-toggle="popover" data-placement="bottom"
+                               data-trigger="hover" data-content="Отделка: Шлифованная сталь"></label>
                         <div class="buy-block">
                             <div class="btn-group mt-3" role="group" aria-label="Basic example">
                                 <button type="button" class="btn btn-sm btn-secondary">-</button>
@@ -1097,8 +1106,9 @@
                     <div class="col-md-3 col-sm-4 col-6 card-block pb-1">
                         <p><strong><span>2 377.20</span><span> руб.</span><span>/шт</span></strong></p>
                         <p class="card-text">Отделка</p>
-                        <label class="btn btn-secondary btn-sm mx-1">SSS</label>
-                        <label class="btn btn-secondary btn-sm mx-1">PSS</label>
+                        <label class="btn btn-secondary btn-sm mx-1 prop an"
+                               data-toggle="popover" data-placement="bottom"
+                               data-trigger="hover" data-content="Отделка: Шлифованная сталь"></label>
                         <div class="buy-block">
                             <div class="btn-group mt-3" role="group" aria-label="Basic example">
                                 <button type="button" class="btn btn-sm btn-secondary">-</button>
@@ -1158,8 +1168,12 @@
                     <div class="col-md-3 col-sm-4 col-6 card-block pb-1">
                         <p><strong><span>2 377.20</span><span> руб.</span><span>/шт</span></strong></p>
                         <p class="card-text">Отделка</p>
-                        <label class="btn btn-secondary btn-sm mx-1">SSS</label>
-                        <label class="btn btn-secondary btn-sm mx-1">PSS</label>
+                        <label class="btn btn-secondary btn-sm mx-1 prop sc"
+                               data-toggle="popover" data-placement="bottom"
+                               data-trigger="hover" data-content="Отделка: Шлифованная сталь"></label>
+                        <label class="btn btn-secondary btn-sm mx-1 prop pc"
+                               data-toggle="popover" data-placement="bottom"
+                               data-trigger="hover" data-content="Отделка: Шлифованная сталь"></label>
                         <div class="buy-block">
                             <div class="btn-group mt-3" role="group" aria-label="Basic example">
                                 <button type="button" class="btn btn-sm btn-secondary">-</button>
@@ -1173,6 +1187,7 @@
                     </div>
                 </div>
             </div>
+            <!--update 14.06 end -->
             <div class="card mt-4">
                 <div class="card-block text-center p-2">
                     <a href="#"><i class="glyphicon glyphicon-refresh" aria-hidden="true"></i></a>
@@ -1427,5 +1442,10 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"
         integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn"
         crossorigin="anonymous"></script>
+<script type="text/javascript">
+    $(function () {
+        $('[data-toggle="popover"]').popover()
+    })
+</script>
 </body>
 </html>
