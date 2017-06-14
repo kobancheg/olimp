@@ -928,7 +928,10 @@
                         <div class="hover-block row no-gutters">
                             <p class="text-muted mb-2">Отделка</p>
                             <div class="col">
-                                <label class="btn btn-secondary btn-sm mx-1 prop pss"></label>
+                                <label class="btn btn-secondary btn-sm mx-1 prop pss"
+                                       data-container="body" data-toggle="popover" data-placement="bottom"
+                                       data-trigger="hover" data-content="Vivamus
+                                       sagittis lacus vel augue laoreet rutrum faucibus."></label>
                                 <label class="btn btn-secondary btn-sm mx-1 prop sss"></label>
                             </div>
                             <div class="col">
@@ -1413,5 +1416,10 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"
         integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn"
         crossorigin="anonymous"></script>
+<script type="text/javascript">
+    $(function () {
+        $('[data-toggle="popover"]').popover()
+    })
+</script>
 </body>
 </html>
