@@ -615,13 +615,25 @@
                          data-parent="#accordion" href="#collapse-9" aria-expanded="false" aria-controls="collapse-9">
                         <span>Отделка</span></div>
                     <div id="collapse-9" class="collapse" role="tabpanel" aria-labelledby="heading-9">
-                        <div class="card-block">
-                            <label class="btn btn-secondary btn-sm active">ANN</label>
-                            <label class="btn btn-secondary btn-sm">SSS</label>
-                            <label class="btn btn-secondary btn-sm">PSS</label>
-                            <label class="btn btn-secondary btn-sm disabled">SC</label>
-                            <label class="btn btn-secondary btn-sm disabled">PC</label>
+                        <!-- ----- update 14.06 ----- -->
+                        <div class="card-block d-flex justify-content-around">
+                            <label class="btn btn-secondary btn-sm prop an"
+                                   data-toggle="popover" data-placement="bottom"
+                                   data-trigger="hover" data-content="Отделка: Шлифованная сталь"></label>
+                            <label class="btn btn-secondary btn-sm prop sss"
+                                   data-toggle="popover" data-placement="bottom"
+                                   data-trigger="hover" data-content="Отделка: Шлифованная сталь"></label>
+                            <label class="btn btn-secondary btn-sm prop pss"
+                                   data-toggle="popover" data-placement="bottom"
+                                   data-trigger="hover" data-content="Отделка: Шлифованная сталь"></label>
+                            <label class="btn btn-secondary btn-sm prop sc"
+                                   data-toggle="popover" data-placement="bottom"
+                                   data-trigger="hover" data-content="Отделка: Шлифованная сталь"></label>
+                            <label class="btn btn-secondary btn-sm prop pc"
+                                   data-toggle="popover" data-placement="bottom"
+                                   data-trigger="hover" data-content="Отделка: Шлифованная сталь"></label>
                         </div>
+                        <!-- ----- update 14.06 end ----- -->
                     </div>
                 </div>
 
@@ -894,13 +906,25 @@
                                 <div class="card-header" data-toggle="collapse" data-target="#collapse-fl-9"
                                      aria-expanded="false" aria-controls="collapse-fl-9"><span>Отделка</span></div>
                                 <div id="collapse-fl-9" class="collapse">
-                                    <div class="card-block">
-                                        <label class="btn btn-secondary btn-sm active">ANN</label>
-                                        <label class="btn btn-secondary btn-sm">SSS</label>
-                                        <label class="btn btn-secondary btn-sm">PSS</label>
-                                        <label class="btn btn-secondary btn-sm disabled">SC</label>
-                                        <label class="btn btn-secondary btn-sm disabled">PC</label>
+                                    <!-- ----- update 14.06 ----- -->
+                                    <div class="card-block d-flex justify-content-around">
+                                        <label class="btn btn-secondary btn-sm prop an"
+                                               data-toggle="popover" data-placement="bottom"
+                                               data-trigger="hover" data-content="Отделка: Шлифованная сталь"></label>
+                                        <label class="btn btn-secondary btn-sm prop sss"
+                                               data-toggle="popover" data-placement="bottom"
+                                               data-trigger="hover" data-content="Отделка: Шлифованная сталь"></label>
+                                        <label class="btn btn-secondary btn-sm prop pss"
+                                               data-toggle="popover" data-placement="bottom"
+                                               data-trigger="hover" data-content="Отделка: Шлифованная сталь"></label>
+                                        <label class="btn btn-secondary btn-sm prop sc"
+                                               data-toggle="popover" data-placement="bottom"
+                                               data-trigger="hover" data-content="Отделка: Шлифованная сталь"></label>
+                                        <label class="btn btn-secondary btn-sm prop pc"
+                                               data-toggle="popover" data-placement="bottom"
+                                               data-trigger="hover" data-content="Отделка: Шлифованная сталь"></label>
                                     </div>
+                                    <!-- ----- update 14.06 end ----- -->
                                 </div>
                             </div>
 
@@ -1365,5 +1389,10 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"
         integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn"
         crossorigin="anonymous"></script>
+<script type="text/javascript">
+    $(function () {
+        $('[data-toggle="popover"]').popover()
+    })
+</script>
 </body>
 </html>
