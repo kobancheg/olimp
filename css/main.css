@@ -866,6 +866,12 @@ span.price {
     visibility: hidden;
 }
 
+.catalog-detail .label {
+    position: absolute;
+    right: 0.75rem;
+    visibility: visible;
+}
+
 .category-item:hover > .label,
 .tab-item:hover > .label {
     visibility: visible;

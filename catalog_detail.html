@@ -446,6 +446,10 @@
                                 <li data-target='#carousel-custom' data-slide-to='2'>
                                     <img class="img-fluid" src='img/tovar5.jpg' alt=''/></li>
                             </ol>
+                            <!-- update 14.06 -->
+                            <i class="glyphicon glyphicon-stats label compare" type="button"></i>
+                            <i class="glyphicon glyphicon-heart-empty label like" type="button"></i>
+                            <!-- update 14.06 end -->
                         </div>
                         <!-- update 12.06 -->
                         <div class="col-sm-6 col-12 px-4 item-details card-block">
@@ -466,8 +470,14 @@
                             <div class="row">
                                 <p class="card-text px-0 col-12 mb-1 text-muted">Отделка</p>
                                 <div class="col-12 px-0 mb-2">
-                                    <label class="btn btn-secondary mx-1 prop sss"></label>
-                                    <label class="btn btn-secondary mx-1 prop pss"></label>
+                                    <!-- update 14.06 -->
+                                    <label class="btn btn-secondary mx-1 prop sss"
+                                           data-toggle="popover" data-placement="bottom"
+                                           data-trigger="hover" data-content="Отделка: Шлифованная сталь"></label>
+                                    <label class="btn btn-secondary mx-1 prop pss"
+                                           data-toggle="popover" data-placement="bottom"
+                                           data-trigger="hover" data-content="Отделка: Шлифованная сталь"></label>
+                                    <!-- update 14.06 end -->
                                 </div>
                                 <!--update 02.06 end -->
                                 <div class="col-auto mb-3">
@@ -895,6 +905,11 @@
     $(document).ready(function () {
         $("a.fancyimage").fancybox();
     });
+</script>
+<script type="text/javascript">
+    $(function () {
+        $('[data-toggle="popover"]').popover()
+    })
 </script>
 
 </body>
