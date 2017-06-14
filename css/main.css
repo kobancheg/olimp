@@ -946,23 +946,23 @@ a:focus, a:hover {
 }
 
 .an {
-    background-image: url("/img/otdelka/an.jpg");
+    background-image: url("/img/otdelka/an.jpg")!important;
 }
 
 .pc {
-    background-image: url("/img/otdelka/pc.jpg");
+    background-image: url("/img/otdelka/pc.jpg")!important;
 }
 
 .pss {
-    background-image: url("/img/otdelka/pss.jpg");
+    background-image: url("/img/otdelka/pss.jpg")!important;
 }
 
 .sc {
-    background-image: url("/img/otdelka/sc.jpg");
+    background-image: url("/img/otdelka/sc.jpg")!important;
 }
 
 .sss {
-    background-image: url("/img/otdelka/sss.jpg");
+    background-image: url("/img/otdelka/sss.jpg")!important;
 }
 
 .sidebar-nav a.list-group-item:hover:before {
@@ -1020,6 +1020,10 @@ a:focus, a:hover {
 
 #carousel-custom .carousel-indicators li:hover img {
     opacity: 0.75;
+}
+
+.btn-secondary.active {
+    border-color: #cf514e;
 }
 
 /*.filter .view .glyphicon {*/
