@@ -1026,14 +1026,12 @@ a:focus, a:hover {
     border-color: #cf514e;
 }
 
-/*.filter .glyphicon {*/
-    /*font-size: 14px;*/
-/*}*/
+.glyphicon-th-list:before {
+    content: "\e012";
+}
 
-/*@media (min-width: 768px) {*/
-    /*.filter .glyphicon-th,*/
-    /*.filter .glyphicon-list,*/
-    /*.filter .glyphicon-align-justify {*/
-        /*font-size: 24px;*/
-    /*}*/
-/*}*/
+.filter .glyphicon-th,
+.filter .glyphicon-th-list,
+.filter .glyphicon-menu-hamburger {
+    font-size: 14px;
+}
